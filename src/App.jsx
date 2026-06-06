@@ -1,10 +1,12 @@
-import React from 'react'
+
 
 const App = () => {
   return (
-    <div>
-      <h1>App</h1>
-    </div>
+    <main>
+      <div> 
+        <h1>Welcome to my 3D Website</h1>
+      </div>
+    </main>
   )
 }
 
